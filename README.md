@@ -1,5 +1,4 @@
-# C-StudentDB-Mgmt
-Student/Course records management framework written in C
+# Student Records Management Framework
 
 Includes the following CLI commands for management of records: 
   -search_students
